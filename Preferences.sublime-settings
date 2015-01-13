@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Seti_UI",
+		"SyncedSideBar",
+		"Vintage",
+		"Markdown"
+	],
+	"reveal-on-activate": true,
+	"theme": "Brogrammer.sublime-theme",
+	"word_wrap": true
+}

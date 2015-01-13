@@ -1,0 +1,20 @@
+{
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Bison",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"Laravel Blade Highlighter",
+		"MarkdownEditing",
+		"Package Control",
+		"Seti_UI",
+		"SyncedSideBar",
+		"Theme - Brogrammer"
+	]
+}
