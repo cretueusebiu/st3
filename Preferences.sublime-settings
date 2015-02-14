@@ -3,12 +3,11 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SyncedSideBar",
+		"Markdown",
 		"Seti_UI",
-		"Markdown"
+		"Vintage"
 	],
-	"reveal-on-activate": true,
+	"reveal-on-activate": false,
 	"theme": "Brogrammer.sublime-theme",
 	"word_wrap": true
 }

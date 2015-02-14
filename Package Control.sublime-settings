@@ -2,18 +2,15 @@
 	"in_process_packages":
 	[
 	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
-	],
 	"installed_packages":
 	[
 		"Bison",
 		"DocBlockr",
 		"Emmet",
+		"INI",
 		"jQuery",
 		"Laravel Blade Highlighter",
+		"LESS",
 		"MarkdownEditing",
 		"nginx",
 		"Package Control",
