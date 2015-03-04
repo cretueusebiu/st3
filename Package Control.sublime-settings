@@ -5,6 +5,7 @@
 	"installed_packages":
 	[
 		"Bison",
+		"BufferScroll",
 		"DocBlockr",
 		"Emmet",
 		"INI",

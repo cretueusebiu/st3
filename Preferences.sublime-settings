@@ -3,8 +3,8 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Seti_UI",
+		"Markdown",
 		"Vintage"
 	],
 	"reveal-on-activate": false,
