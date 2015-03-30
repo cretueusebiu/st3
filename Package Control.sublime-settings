@@ -6,6 +6,7 @@
 	[
 		"Bison",
 		"BufferScroll",
+		"Composer",
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
@@ -13,12 +14,15 @@
 		"jQuery",
 		"Laravel Blade Highlighter",
 		"LESS",
+		"Markdown Preview",
 		"MarkdownEditing",
 		"nginx",
 		"Package Control",
 		"PHPUnit Completions",
 		"Seti_UI",
 		"SyncedSideBar",
-		"Theme - Brogrammer"
+		"Terminal",
+		"Theme - Brogrammer",
+		"Theme - itg.flat"
 	]
 }
