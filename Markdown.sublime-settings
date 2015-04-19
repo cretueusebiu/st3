@@ -1,5 +1,6 @@
-{ 
-     "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme", 
-     "draw_centered": false, 
-     "wrap_width": 100, 
+{
+     "color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+     "draw_centered": false,
+     "wrap_width": 120,
+     "line_numbers": true
 }
