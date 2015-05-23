@@ -3,10 +3,11 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Seti_UI",
+		"Vintage",
 		"Markdown",
-		"Vintage"
+		"Seti_UI"
 	],
+	"line_padding_bottom": 2,
 	"reveal-on-activate": false,
 	"theme": "itg.flat.dark.sublime-theme",
 	"word_wrap": true
