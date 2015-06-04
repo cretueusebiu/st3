@@ -1,16 +1,19 @@
 {
-	"color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
 	"font_size": 10,
 	"ignored_packages":
 	[
-		"Seti_UI",
 		"Markdown",
 		"Vintage"
 	],
-	"line_padding_bottom": 2,
+	"line_padding_bottom": 4,
 	"reveal-on-activate": false,
-	"theme": "itg.flat.dark.sublime-theme",
+	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true,
-	"folder_exclude_patterns": [".git", "node_modules"]
+	"word_wrap": true
 }
