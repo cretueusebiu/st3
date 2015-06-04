@@ -4,6 +4,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Bison",
 		"BufferScroll",
 		"Composer",

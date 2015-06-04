@@ -14,5 +14,9 @@
 	{
 		"keys": ["ctrl+shift+v"],
 		"command": "paste"
+	},
+	{
+		"keys": ["n", "n"],
+		"command": "advanced_new_file"
 	}
 ]
