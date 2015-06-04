@@ -11,5 +11,6 @@
 	"reveal-on-activate": false,
 	"theme": "itg.flat.dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"word_wrap": true
+	"word_wrap": true,
+	"folder_exclude_patterns": [".git", "node_modules"]
 }
