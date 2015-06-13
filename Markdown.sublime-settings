@@ -2,5 +2,6 @@
      "color_scheme": "Packages/Theme - itg.flat/itg.dark.tmTheme",
      "draw_centered": false,
      "wrap_width": 120,
-     "line_numbers": true
+     "line_numbers": true,
+     "font_size": 10,
 }
