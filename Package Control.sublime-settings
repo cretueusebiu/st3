@@ -12,6 +12,7 @@
 		"EditorConfig",
 		"Emmet",
 		"INI",
+		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
 		"jQuery",
 		"Laravel Blade Highlighter",
@@ -19,6 +20,7 @@
 		"Markdown Preview",
 		"MarkdownEditing",
 		"nginx",
+		"npm",
 		"Package Control",
 		"PHP Companion",
 		"PHPUnit Completions",
@@ -28,6 +30,8 @@
 		"Terminal",
 		"Theme - Brogrammer",
 		"Theme - itg.flat",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Twig",
+		"Vue Syntax Highlight"
 	]
 }
