@@ -6,13 +6,14 @@
 		".git",
 		"node_modules"
 	],
-	"font_size": 9,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown"
+		"Markdown",
+		"Vintage"
 	],
-	"line_padding_bottom": 4,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"reveal-on-activate": false,
 	"smart_indent": true,
 	"theme": "Seti.sublime-theme",

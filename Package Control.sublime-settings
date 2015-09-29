@@ -1,12 +1,15 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Better CoffeeScript",
 		"Bison",
 		"BufferScroll",
+		"Colorsublime",
 		"Composer",
 		"DocBlockr",
 		"EditorConfig",
