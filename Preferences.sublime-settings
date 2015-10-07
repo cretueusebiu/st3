@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Modifried itgTheme/itg.dark.tmTheme",
+	"color_scheme": "Packages/User/itg.dark.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"folder_exclude_patterns":
 	[
@@ -16,7 +16,7 @@
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
-	"overlay_scroll_bars": "enabled",
 	"material_theme_accent_red": true,
+	"overlay_scroll_bars": "enabled",
 	"theme": "Material-Theme.sublime-theme"
 }
