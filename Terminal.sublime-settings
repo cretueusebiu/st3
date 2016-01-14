@@ -1,7 +1,7 @@
 {
-	"terminal": "C:/Program Files/Git/git-bash.exe",
+	"terminal": "C:/Program Files/Git/bin/bash.exe",
 
 	"parameters": [
-		"-i"
+		"--login", "-i"
 	]
 }
