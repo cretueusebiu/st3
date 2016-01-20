@@ -30,6 +30,8 @@
 		"PHPUnit Completions",
 		"Seti_UI",
 		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
 		"SyncedSideBar",
 		"Terminal",
 		"Theme - Brogrammer",
