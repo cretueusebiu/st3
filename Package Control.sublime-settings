@@ -38,6 +38,7 @@
 		"Theme - itg.flat",
 		"Theme - Spacegray",
 		"Twig",
-		"Vue Syntax Highlight"
+		"Vue Syntax Highlight",
+		"Xdebug Client"
 	]
 }
