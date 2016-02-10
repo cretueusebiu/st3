@@ -2,5 +2,10 @@
 	"extensions":
 	[
 		"md"
-	]
+	],
+	"color_scheme": "Packages/User/itg.dark.tmTheme",
+	"draw_centered": false,
+	"wrap_width": 120,
+	"line_numbers": true,
+	"font_size": 10,
 }
