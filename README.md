@@ -4,7 +4,7 @@ My Sublime Text 3 settings.
 ## Installation
 
 Go to Preferences > Browse Packages and delete/backup the _User_ folder then clone the repository: <br> 
-`git clone git@github.com:cretueusebiu/st3.git User`.
+`git clone https://github.com/cretueusebiu/st3.git User`.
 
 ## Configuration
 
