@@ -5,10 +5,10 @@
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
 		"Better CoffeeScript",
 		"Bison",
 		"BufferScroll",
+		"Color Highlighter",
 		"Colorsublime",
 		"Composer",
 		"DocBlockr",
