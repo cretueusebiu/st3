@@ -14,7 +14,9 @@
 	"font_size": 10,
 	"ignored_packages":
 	[
+		"0_package_control_loader",
 		"Markdown",
+		"SublimeLinter-contrib-sass-lint",
 		"Vintage"
 	],
 	"line_padding_bottom": 3,

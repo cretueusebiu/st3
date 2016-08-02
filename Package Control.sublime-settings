@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"0_package_control_loader"
 	],
 	"installed_packages":
 	[
@@ -22,7 +23,6 @@
 		"LESS",
 		"Markdown Preview",
 		"MarkdownEditing",
-		"Material Theme",
 		"nginx",
 		"npm",
 		"Package Control",
@@ -33,6 +33,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
 		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Terminal",
