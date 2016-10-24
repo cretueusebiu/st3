@@ -6,12 +6,13 @@
 		".git",
 		"node_modules"
 	],
+	"font_face": "Office Code Pro",
 	"font_options":
 	[
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 10,
+	"font_size": 9,
 	"ignored_packages":
 	[
 		"0_package_control_loader",

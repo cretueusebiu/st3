@@ -8,7 +8,12 @@ Go to Preferences > Browse Packages and delete/backup the _User_ folder then clo
 
 ## Configuration
 
+### Font
+
+[Office Code Pro](https://github.com/nathco/Office-Code-Pro)
+
 ### ESLint
+
 `npm install -g eslint`
 
 ## Terminal
