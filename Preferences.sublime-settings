@@ -20,8 +20,8 @@
 		"SublimeLinter-contrib-sass-lint",
 		"Vintage"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
 	"overlay_scroll_bars": "enabled",
 	"reveal-on-activate": false,
 	"smart_indent": true,
