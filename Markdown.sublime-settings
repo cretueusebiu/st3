@@ -3,7 +3,6 @@
 	"draw_centered": false,
 	"extensions":
 	[
-		"md",
 	],
 	"font_size": 10,
 	"line_numbers": true,

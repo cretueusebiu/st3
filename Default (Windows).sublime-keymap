@@ -15,10 +15,6 @@
 		"keys": ["ctrl+shift+v"],
 		"command": "paste"
 	},
-	// {
-	// 	"keys": ["n", "n"],
-	// 	"command": "advanced_new_file"
-	// },
 	{ "keys": ["ctrl+keypad1"], "command": "prev_view" },
 	{ "keys": ["ctrl+keypad3"], "command": "next_view" },
 ]

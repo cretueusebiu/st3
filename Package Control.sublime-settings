@@ -5,9 +5,7 @@
 	],
 	"installed_packages":
 	[
-		"Better CoffeeScript",
-		"Bison",
-		"BufferScroll",
+		"Color Highlighter",
 		"Colorsublime",
 		"Composer",
 		"DocBlockr",
@@ -17,18 +15,15 @@
 		"INI",
 		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
-		"jQuery",
 		"Laravel Blade Highlighter",
 		"LESS",
 		"Markdown Preview",
-		"MarkdownEditing",
+		"Material Theme",
 		"nginx",
-		"npm",
 		"Package Control",
 		"PHP Companion",
 		"PHPUnit Completions",
 		"Sass",
-		"Seti_UI",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
@@ -36,12 +31,9 @@
 		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Terminal",
-		"Theme - Brogrammer",
-		"Theme - itg.flat",
-		"Theme - Spacegray",
 		"Twig",
 		"Vue Syntax Highlight",
 		"Xdebug Client",
-		"Color Highlighter"
+		"zz File Icons"
 	]
 }
