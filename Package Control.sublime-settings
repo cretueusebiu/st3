@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Color Highlighter",
 		"Colorsublime",
 		"Composer",
@@ -25,6 +26,7 @@
 		"PHPUnit Completions",
 		"PowerShell",
 		"Sass",
+		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
@@ -33,7 +35,6 @@
 		"Terminal",
 		"Twig",
 		"Vue Syntax Highlight",
-		"Xdebug Client",
-		"zz File Icons"
+		"Xdebug Client"
 	]
 }
