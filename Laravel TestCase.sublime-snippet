@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+<?php
+
+namespace Tests\Feature;
+
+use Tests\TestCase;
+
+class ${TM_FILENAME/(\w+)\.php/\1/} extends TestCase
+{
+	${0}
+}
+]]></content>
+	<tabTrigger>testcase</tabTrigger>
+</snippet>
