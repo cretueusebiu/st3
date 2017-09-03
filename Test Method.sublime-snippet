@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 /** @test */
-public function ${1:the_one_where}()
+function ${1:the_one_where}()
 {
 	${0}
 }
