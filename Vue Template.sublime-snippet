@@ -1,15 +1,21 @@
 <snippet>
-	<content><![CDATA[
+  <content><![CDATA[
 <template>
   ${1}
 </template>
-
 <script>
 export default {
-  ${1}
+  data: () => ({
+    ${2}
+  }),
+
+  methods: {
+    ${3}
+  },
 }
 </script>
 ]]></content>
-	<tabTrigger>vt</tabTrigger>
-	<scope>source.vue</scope>
+  <tabTrigger>vue</tabTrigger>
+  <!-- https://github.com/sdras/vue-sublime-snippets -->
+  <scope>text.html.vue</scope>
 </snippet>
