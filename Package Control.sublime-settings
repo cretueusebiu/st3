@@ -29,7 +29,7 @@
 		"Stylus",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Terminal",
