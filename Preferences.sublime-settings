@@ -5,6 +5,7 @@
 	[
 		".git",
 		".nuxt",
+		".sass-cache",
 		"node_modules"
 	],
 	"font_face": "Office Code Pro",
