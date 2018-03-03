@@ -30,6 +30,7 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-eslint",
+		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"SyncedSideBar",
 		"Terminal",
