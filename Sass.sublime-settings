@@ -3,7 +3,6 @@
 	[
 		"sass",
 		"sass.erb",
-		"sass.liquid",
-		"scss"
+		"sass.liquid"
 	]
 }
