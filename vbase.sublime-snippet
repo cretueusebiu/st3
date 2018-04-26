@@ -3,6 +3,7 @@
 <template>
   ${1}
 </template>
+
 <script>
 export default {
   data: () => ({
@@ -11,11 +12,11 @@ export default {
 
   methods: {
     ${3}
-  },
+  }
 }
 </script>
+
 ]]></content>
-  <tabTrigger>vue</tabTrigger>
-  <!-- https://github.com/sdras/vue-sublime-snippets -->
+  <tabTrigger>vbase</tabTrigger>
   <scope>text.html.vue</scope>
 </snippet>

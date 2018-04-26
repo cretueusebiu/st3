@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<style lang="scss">
+	${1}
+</style>
+]]></content>
+  <tabTrigger>vstyle</tabTrigger>
+  <scope>text.html.vue</scope>
+</snippet>
