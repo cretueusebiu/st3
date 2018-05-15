@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 // state
-export const state = {
+export const state = () => ({
 
-}
+})
 
 // getters
 export const getters = {
@@ -21,6 +21,6 @@ export const actions = {
 }
 
 ]]></content>
-	<tabTrigger>store</tabTrigger>
+	<tabTrigger>vstore</tabTrigger>
 	<scope>source.js</scope>
 </snippet>

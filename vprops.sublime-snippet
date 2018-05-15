@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+props: {
+  $1
+}
+]]></content>
+  <tabTrigger>vprops</tabTrigger>
+  <scope>text.html.vue, source.js</scope>
+</snippet>
