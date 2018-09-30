@@ -19,8 +19,9 @@
 	[
 		"BufferScroll",
 		"Color Highlighter",
-		"MarkdownEditing",
-		"Vintage"
+		"SublimeLinter-eslint",
+		"Vintage",
+		"JavaScript"
 	],
 	"line_padding_bottom": 5,
 	"line_padding_top": 5,

@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"Babel",
 		"Color Highlighter",
 		"Colorsublime",
 		"Composer",
@@ -14,11 +15,11 @@
 		"Emmet",
 		"Indent XML",
 		"INI",
-		"JavaScriptNext - ES6 Syntax",
 		"Jinja2",
 		"Laravel Blade Highlighter",
 		"LESS",
-		"Markdown Preview",
+		"Markdown Extended",
+		"MarkdownPreview",
 		"Material Theme",
 		"nginx",
 		"Package Control",
